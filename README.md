@@ -23,7 +23,7 @@ Ensure you have the following dependencies installed to run the project:
 
 1. Python (3.6+)
 2. Streamlit
-3. Hugging Face Transformers library: https://huggingface.co/EleutherAI/gpt-neo-1.3B
+3. Hugging Face [Transformers library]( https://huggingface.co/EleutherAI/gpt-neo-1.3B)
 4. Jupyter Notebook (for model generation)
 
 
