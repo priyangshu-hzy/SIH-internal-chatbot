@@ -13,7 +13,7 @@ The core of this project consists of two main components:
 ## Usage
 1. Execute the model_generation.ipynb notebook to generate and save the transformer so that it can be used later. This is important because it takes a really long time to do it. <br>
    Time taken in my case: 16.5 min for 10 GB, approx.<br>
-   System specs: M2 macbook Air - 16GB RAM
+   System specs: M2 Macbook Air - 16GB RAM
 2. Now, execute the chatbot.py file using the following command in the command prompt:
    > streamlit run chatbot.py
 
